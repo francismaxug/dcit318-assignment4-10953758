@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\318assignment\canva\canva\bin\Debug\canva.exe.config
+C:\Users\Dell\Desktop\318assignment\canva\canva\bin\Debug\canva.exe
+C:\Users\Dell\Desktop\318assignment\canva\canva\bin\Debug\canva.pdb
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.Form1.resources
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.Properties.Resources.resources
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.exe
+C:\Users\Dell\Desktop\318assignment\canva\canva\obj\Debug\canva.pdb

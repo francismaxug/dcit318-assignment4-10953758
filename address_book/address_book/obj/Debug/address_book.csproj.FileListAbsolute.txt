@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\bin\Debug\address_book.exe.config
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\bin\Debug\address_book.exe
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\bin\Debug\address_book.pdb
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.Form1.resources
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.Properties.Resources.resources
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.exe
+C:\Users\Dell\Desktop\318assignment\address_book\address_book\obj\Debug\address_book.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\bin\Debug\newForm1.exe.config
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\bin\Debug\newForm1.exe
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\bin\Debug\newForm1.pdb
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\newForm1.Form1.resources
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\newForm1.Properties.Resources.resources
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\newForm1.exe
+C:\Users\Dell\Desktop\318assignment\newForm1\newForm1\obj\Debug\newForm1.pdb
